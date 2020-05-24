@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react'
 import './App.css'
 
 function App() {
-  // let [time, setTime]  = useState(new Date())
   let [hex, setHex] = useState("")
   
   const tick = () => {
@@ -19,7 +18,7 @@ function App() {
 
   return (
     <div className="App" style={{backgroundColor: hex}}>
-      {hex}
+      <h1>{hex}</h1>
     </div>
   );
 }
