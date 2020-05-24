@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hex-o-clock/static/css/main.e49b5e48.chunk.css",
+    "main.js": "/hex-o-clock/static/js/main.2a8760a7.chunk.js",
+    "main.js.map": "/hex-o-clock/static/js/main.2a8760a7.chunk.js.map",
+    "runtime-main.js": "/hex-o-clock/static/js/runtime-main.917a32ac.js",
+    "runtime-main.js.map": "/hex-o-clock/static/js/runtime-main.917a32ac.js.map",
+    "static/js/2.ff505885.chunk.js": "/hex-o-clock/static/js/2.ff505885.chunk.js",
+    "static/js/2.ff505885.chunk.js.map": "/hex-o-clock/static/js/2.ff505885.chunk.js.map",
+    "index.html": "/hex-o-clock/index.html",
+    "precache-manifest.63ec9a09fc571813ef8ee0b187e38aa4.js": "/hex-o-clock/precache-manifest.63ec9a09fc571813ef8ee0b187e38aa4.js",
+    "service-worker.js": "/hex-o-clock/service-worker.js",
+    "static/css/main.e49b5e48.chunk.css.map": "/hex-o-clock/static/css/main.e49b5e48.chunk.css.map",
+    "static/js/2.ff505885.chunk.js.LICENSE.txt": "/hex-o-clock/static/js/2.ff505885.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.917a32ac.js",
+    "static/js/2.ff505885.chunk.js",
+    "static/css/main.e49b5e48.chunk.css",
+    "static/js/main.2a8760a7.chunk.js"
+  ]
+}
